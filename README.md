@@ -40,4 +40,5 @@ fetch-api-project/
 
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/18a6cd34-0404-4409-a5d3-fdf8384d05f0)
 
